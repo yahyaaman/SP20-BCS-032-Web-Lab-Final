@@ -1,0 +1,14 @@
+.card-body{
+    margin:5px;
+    padding: 10px;
+    width: 20rem;
+    height: 20rem;
+    border-radius: 1rem;
+    background-color: rgb(196, 196, 164);
+}
+
+.body{
+    /* background-color: rgb(205, 205, 185); */
+    height: 8rem;
+    overflow:hidden
+}

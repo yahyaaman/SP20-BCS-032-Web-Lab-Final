@@ -1,0 +1,15 @@
+.home-body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+}
+
+.button-container >button{
+    margin: 10px;
+}
